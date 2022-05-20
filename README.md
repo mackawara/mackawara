@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @mackawara
-- 👀 I’m interested in mobile app and Web development
-- 🌱 I’m currently learning react and Node JS
 - 💞️ I’m looking to collaborate on any MERN stack projects
 - 📫 How to reach me mkawara@outlook.com
 
