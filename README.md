@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @mackawara
 - 💞️ I’m looking to collaborate on any MERN stack projects
 - 📫 How to reach me mkawara@outlook.com
+- Core Skillls HTML,CSS, JS, Node JS , MongoDB
 
 <!---
 mackawara/mackawara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
