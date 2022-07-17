@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mackawara
 - 💞️ I’m looking to collaborate on any MERN stack projects
 - 📫 How to reach me: mkawara@outlook.com
-- Core Skillls HTML,CSS, JS, Node JS ,React, MongoDB
+- Core Skillls HTML,CSS, JS, Node JS ,React,Python
 - Area of speciality : validation,schema validation , chatbots, JS backend functions, Building APIs
 
 
